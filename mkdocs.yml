@@ -16,5 +16,13 @@ site_name: Documentation Programming Quotes efrei-team
 nav:
   - Home: index.md
   - Features: features.md
+  contributor-logs
+  - User Interface: user-interface.md
+  - Logs:
+      - Contributeur 1: logs/log-contributeur-1.md
+      - Contributeur 3: logs/log-contributeur-3.md
+
+=======
   - Core Functions: functions.md 
+main
 main
