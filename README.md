@@ -15,11 +15,6 @@ contributor3-interface
 - `contributeur 2` : Farraï Sofian
 
 
-=======
-- `contributor-1` : Dharm pal Singh Harjit
-- `contributor-2` : Farraï Sofiane
-main
-
 ## URLs des dépôts
 
 - `initiateur` : https://github.com/efrei-git/quotes-docs-efrei-team
