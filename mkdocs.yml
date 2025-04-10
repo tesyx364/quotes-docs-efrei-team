@@ -1,3 +1,4 @@
+contributor1-features
 site_name: Documentation Programming Quotes quotes-docs-efrei-team
 
 nav:
@@ -7,3 +8,10 @@ nav:
 theme:
   name: readthedocs
 
+=======
+site_name: Documentation Programming Quotes efrei-team
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Core Functions: functions.md 
+main

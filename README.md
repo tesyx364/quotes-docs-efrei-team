@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iqHMpjkg)
+# Solutions de l'évaluation notée 2 du groupe efrei-team
+
+Solutions de l'évaluation notée 2 du groupe efrei-team à l'aide de MkDocs.
+
+## Membres du groupe
+
+- `initiateur` : Barbe Maël
+- `contributor-1` : Dharm pal Singh Harjit
+- `contributor-2` : Farraï Sofiane
+
+## URLs des dépôts
+
+- `initiateur` : https://github.com/efrei-git/quotes-docs-efrei-team
+
+
