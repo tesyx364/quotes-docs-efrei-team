@@ -16,7 +16,7 @@ main
 - `initiateur` : Barbe Maël
 contributor3-interface
 - `contributeur 1 et 3` : Dharm Pal Singh Harjit
-- `contributeur 2` : Farraï Sofian
+- `contributeur 2` : Farraï Sofiane
 
 
 ## URLs des dépôts
