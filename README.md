@@ -3,7 +3,6 @@ contributor3-interface
 # Solutions de l'évaluation notée 2 du groupe quotes-docs-efrei-team
 
 =======
-# Solutions de l'évaluation notée 2 du groupe efrei-team
 
 Solutions de l'évaluation notée 2 du groupe efrei-team à l'aide de MkDocs.
 main
