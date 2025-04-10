@@ -3,6 +3,9 @@ site_name: Documentation Programming Quotes quotes-docs-efrei-team
 nav:
   - Home: index.md
   - Features: features.md
+  - Core Functions: functions.md
+  - User Interface: user-interface.md
+
 
 theme:
   name: readthedocs
