@@ -1,0 +1,9 @@
+site_name: Documentation Programming Quotes quotes-docs-efrei-team
+
+nav:
+  - Home: index.md
+  - Features: features.md
+
+theme:
+  name: readthedocs
+
